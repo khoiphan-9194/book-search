@@ -1,28 +1,56 @@
-import ReactDOM from 'react-dom/client'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
-import 'bootstrap/dist/css/bootstrap.min.css'
+import React from "react";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import ReactDOM from "react-dom/client";
+import App from "./App.jsx";
 
-import App from './App.jsx'
-import SearchBooks from './pages/SearchBooks'
-import SavedBooks from './pages/SavedBooks'
+//import all pages
+import Dashboard from "./pages/Dashboard/Dashboard.jsx";
+import Explore from "./pages/Explore/Explore.jsx";
+import MyGarden from "./pages/MyGarden/MyGarden.jsx";
+import ErrorPage from "./pages/ErrorPage.jsx";
+import LogIn from "./pages/LogIn/LogIn.jsx";
+import SignUp from "./pages/SignUp/SignUp.jsx";
+import SingleGoal from "./pages/SingleGoal/SingleGoal.jsx";
+import SinglePost from "./pages/SinglePost/SinglePost.jsx";
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: "/",
     element: <App />,
-    errorElement: <h1 className='display-2'>Wrong page!</h1>,
+    errorElement: <ErrorPage />,
     children: [
       {
         index: true,
-        element: <SearchBooks />
-      }, {
-        path: '/saved',
-        element: <SavedBooks />
+        element: <LogIn />,
+      },
+      {
+        path: "/signup",
+        element: <SignUp />,
+      },
+      {
+        path: "/mygarden",
+        element: <MyGarden />,
+      },
+      {
+        path: "/dashboard",
+        element: <Dashboard />,
+      },
+      {
+        path: "/explore",
+        element: <Explore />,
+      },
+      {
+        path: "/singlegoal/:goalId",
+        element: <SingleGoal />,
+      },
+      {
+        path: "/singlepost/:postId",
+        element: <SinglePost />
       }
-    ]
-  }
-])
+    ],
+  },
+]);
 
-ReactDOM.createRoot(document.getElementById('root')).render(
+ReactDOM.createRoot(document.getElementById("root")).render(
   <RouterProvider router={router} />
-)
+);

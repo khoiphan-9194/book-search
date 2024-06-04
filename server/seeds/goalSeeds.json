@@ -1,0 +1,557 @@
+[
+  {
+    "goalTitle": "Run a half-marathon in 2026",
+    "username": "Evelyn",
+    "category": "Fitness",
+    "completed": 0,
+    "frequency": "daily",
+    "activities": [
+      {
+        "activityText": "Ran 5 miles this morning",
+        "createdAt": "2024-04-01"
+      },
+      {
+        "activityText": "Completed a speed workout at the track",
+        "createdAt": "2024-04-02"
+      },
+      {
+        "activityText": "Stretched and did yoga to prevent injury",
+        "createdAt": "2024-04-03"
+      },
+      {
+        "activityText": "Joined a local running club for motivation",
+        "createdAt": "2024-04-04"
+      },
+      {
+        "activityText": "Signed up for a half-marathon training program",
+        "createdAt": "2024-04-06"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Improve my credit score to 800 or above within 3 years",
+    "username": "Benita",
+    "category": "Finance",
+    "completed": 0,
+    "frequency": "monthly",
+    "activities": [
+      {
+        "activityText": "Checked my credit score and reviewed my report",
+        "createdAt": "2024-01-01"
+      },
+      {
+        "activityText": "Paid off a credit card balance in full",
+        "createdAt": "2024-02-06"
+      },
+      {
+        "activityText": "Set up automatic payments to ensure on-time bill payments",
+        "createdAt": "2024-03-07"
+      },
+      {
+        "activityText": "Negotiated a lower interest rate with my credit card company",
+        "createdAt": "2024-04-10"
+      },
+      {
+        "activityText": "Kept credit card balances below 30% of their limits",
+        "createdAt": "2024-04-16"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Learn to meditate and practice mindfulness daily",
+    "username": "Keri",
+    "category": "Mindfulness",
+    "completed": 0,
+    "frequency": "daily",
+    "activities": [
+      {
+        "activityText": "Spent 10 minutes meditating before bed",
+        "createdAt": "2024-04-03"
+      },
+      {
+        "activityText": "Took deep breaths and practiced mindfulness during a stressful moment",
+        "createdAt": "2024-04-04"
+      },
+      {
+        "activityText": "Listened to a guided meditation session during lunch break",
+        "createdAt": "2024-04-05"
+      },
+      {
+        "activityText": "Focused on my breath while commuting to work",
+        "createdAt": "2024-04-06"
+      },
+      {
+        "activityText": "Set reminders on my phone to pause and breathe throughout the day",
+        "createdAt": "2024-04-07"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Attend a leadership training program within the next 2 years",
+    "username": "Sarun",
+    "category": "Career",
+    "completed": 0,
+    "frequency": "monthly",
+    "activities": [
+      {
+        "activityText": "Read a chapter from a leadership development book",
+        "createdAt": "2024-01-04"
+      },
+      {
+        "activityText": "Listened to a podcast on effective leadership strategies",
+        "createdAt": "2024-02-06"
+      },
+      {
+        "activityText": "Joined a professional networking group to connect with other leaders",
+        "createdAt": "2024-03-07"
+      },
+      {
+        "activityText": "Took on a leadership role in a team project at work",
+        "createdAt": "2024-04-09"
+      },
+      {
+        "activityText": "Scheduled a meeting with my manager to discuss leadership development opportunities",
+        "createdAt": "2024-04-12"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Start a savings fund for my children's education",
+    "username": "Sarah",
+    "category": "Finance",
+    "completed": 0,
+    "frequency": "weekly",
+    "activities": [
+      {
+        "activityText": "Researched different college savings plans",
+        "createdAt": "2024-03-01"
+      },
+      {
+        "activityText": "Opened a 529 savings account for each child",
+        "createdAt": "2024-03-07"
+      },
+      {
+        "activityText": "Set up automatic contributions to their accounts",
+        "createdAt": "2024-03-21"
+      },
+      {
+        "activityText": "Contributed a portion of my tax refund to their education fund",
+        "createdAt": "2024-04-02"
+      },
+      {
+        "activityText": "Talked to my children about the importance of saving for their future",
+        "createdAt": "2024-04-11"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Achieve a promotion at work within the next 3 years",
+    "username": "Dani",
+    "category": "Career",
+    "completed": 0,
+    "frequency": "monthly",
+    "activities": [
+      {
+        "activityText": "Took on extra projects to showcase my skills and dedication",
+        "createdAt": "2024-01-02"
+      },
+      {
+        "activityText": "Requested feedback from my supervisor on areas for improvement",
+        "createdAt": "2024-02-05"
+      },
+      {
+        "activityText": "Networked with colleagues in other departments to expand my visibility",
+        "createdAt": "2024-03-08"
+      },
+      {
+        "activityText": "Completed a professional development course related to my field",
+        "createdAt": "2024-04-15"
+      },
+      {
+        "activityText": "Scheduled regular check-ins with my manager to discuss career goals",
+        "createdAt": "2024-04-20"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Complete a master's degree within the next 4 years",
+    "username": "Manya",
+    "category": "Education",
+    "completed": 0,
+    "frequency": "daily",
+    "activities": [
+      {
+        "activityText": "Read assigned chapters and completed course assignments",
+        "createdAt": "2024-04-03"
+      },
+      {
+        "activityText": "Participated in online discussions and group projects",
+        "createdAt": "2024-04-04"
+      },
+      {
+        "activityText": "Scheduled study sessions and stuck to a consistent study routine",
+        "createdAt": "2024-04-08"
+      },
+      {
+        "activityText": "Reached out to professors for clarification on course material",
+        "createdAt": "2024-04-10"
+      },
+      {
+        "activityText": "Attended virtual office hours for additional support",
+        "createdAt": "2024-04-11"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Learn to cook 50 new recipes by the end of next year",
+    "username": "Stephen",
+    "category": "Skill-building",
+    "completed": 0,
+    "frequency": "weekly",
+    "activities": [
+      {
+        "activityText": "Experimented with a new recipe for dinner tonight",
+        "createdAt": "2024-03-04"
+      },
+      {
+        "activityText": "Watched cooking tutorials online to learn new techniques",
+        "createdAt": "2024-03-14"
+      },
+      {
+        "activityText": "Bought ingredients for a recipe I've never tried before",
+        "createdAt": "2024-03-21"
+      },
+      {
+        "activityText": "Hosted a dinner party and cooked a new dish for friends",
+        "createdAt": "2024-04-01"
+      },
+      {
+        "activityText": "Documented my cooking adventures in a recipe journal",
+        "createdAt": "2024-04-09"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Run the marathon in 2025",
+    "username": "Melissa",
+    "category": "Fitness",
+    "completed": 0,
+    "frequency": "weekly",
+    "activities": [
+      {
+        "activityText": "Completed a long run of 15 miles this weekend",
+        "createdAt": "2024-03-21"
+      },
+      {
+        "activityText": "Joined a running group for accountability and support",
+        "createdAt": "2024-03-27"
+      },
+      {
+        "activityText": "Followed a nutrition plan to fuel my training",
+        "createdAt": "2024-04-06"
+      },
+      {
+        "activityText": "Cross-trained with swimming and cycling for overall fitness",
+        "createdAt": "2024-04-14"
+      },
+      {
+        "activityText": "Visualized crossing the marathon finish line during my runs",
+        "createdAt": "2024-04-20"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Start a successful blog within the next 2 years",
+    "username": "Evelyn",
+    "category": "Skill-building",
+    "completed": 0,
+    "frequency": "monthly",
+    "activities": [
+      {
+        "activityText": "Wrote a blog post on a topic of interest",
+        "createdAt": "2024-01-01"
+      },
+      {
+        "activityText": "Researched popular blogging platforms and selected one to use",
+        "createdAt": "2023-12-14"
+      },
+      {
+        "activityText": "Promoted my blog on social media platforms",
+        "createdAt": "2024-02-06"
+      },
+      {
+        "activityText": "Engaged with readers by responding to comments and messages",
+        "createdAt": "2024-03-20"
+      },
+      {
+        "activityText": "Monitored blog analytics to track traffic and engagement",
+        "createdAt": "2024-04-21"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Improve my public speaking skills by joining a Toastmasters club",
+    "username": "Benita",
+    "category": "Skill-building",
+    "completed": 0,
+    "frequency": "weekly",
+    "activities": [
+      {
+        "activityText": "Attended a Toastmasters meeting and participated in Table Topics",
+        "createdAt": "2024-03-07"
+      },
+      {
+        "activityText": "Prepared and delivered a prepared speech at a club meeting",
+        "createdAt": "2024-03-17"
+      },
+      {
+        "activityText": "Received constructive feedback from fellow Toastmasters members",
+        "createdAt": "2024-04-01"
+      },
+      {
+        "activityText": "Practiced vocal exercises and body language techniques at home",
+        "createdAt": "2024-04-12"
+      },
+      {
+        "activityText": "Volunteered for leadership roles within the Toastmasters club",
+        "createdAt": "2024-04-20"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Travel to Japan and immerse myself in the culture",
+    "username": "Evelyn",
+    "category": "Travel",
+    "completed": 0,
+    "frequency": "daily",
+    "activities": [
+      {
+        "activityText": "Learned basic Japanese phrases and greetings",
+        "createdAt": "2024-04-01"
+      },
+      {
+        "activityText": "Researched Japanese customs and etiquette",
+        "createdAt": "2024-04-03"
+      },
+      {
+        "activityText": "Tried traditional Japanese cuisine at a local restaurant",
+        "createdAt": "2024-04-04"
+      },
+      {
+        "activityText": "Visited cultural landmarks such as temples and shrines",
+        "createdAt": "2024-04-06"
+      },
+      {
+        "activityText": "Interacted with locals to learn about daily life in Japan",
+        "createdAt": "2024-04-07"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Build a strong professional network within my industry",
+    "username": "Keri",
+    "category": "Career",
+    "completed": 0,
+    "frequency": "weekly",
+    "activities": [
+      {
+        "activityText": "Attended industry conferences and networking events",
+        "createdAt": "2024-03-27"
+      },
+      {
+        "activityText": "Connected with professionals on LinkedIn and sent personalized messages",
+        "createdAt": "2024-04-01"
+      },
+      {
+        "activityText": "Scheduled informational interviews with industry leaders",
+        "createdAt": "2024-04-04"
+      },
+      {
+        "activityText": "Joined professional associations and attended meetings",
+        "createdAt": "2024-04-12"
+      },
+      {
+        "activityText": "Volunteered to speak or present at industry events",
+        "createdAt": "2024-04-17"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Improve my photography skills and start a photography business",
+    "username": "Benita",
+    "category": "Career",
+    "completed": 0,
+    "frequency": "monthly",
+    "activities": [
+      {
+        "activityText": "Practiced using manual mode on my camera to control settings",
+        "createdAt": "2024-01-09"
+      },
+      {
+        "activityText": "Took photos every day to build a portfolio",
+        "createdAt": "2024-02-17"
+      },
+      {
+        "activityText": "Studied composition techniques and applied them in my photography",
+        "createdAt": "2024-03-22"
+      },
+      {
+        "activityText": "Edited photos using professional editing software",
+        "createdAt": "2024-03-31"
+      },
+      {
+        "activityText": "Researched business strategies and marketing tactics for photographers",
+        "createdAt": "2024-04-19"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Learn to play the guitar and perform at an open mic night",
+    "username": "Keri",
+    "category": "Skill-building",
+    "completed": 0,
+    "frequency": "monthly",
+    "activities": [
+      {
+        "activityText": "Practiced chord progressions and strumming patterns",
+        "createdAt": "2023-12-25"
+      },
+      {
+        "activityText": "Learned to play a new song every week",
+        "createdAt": "2024-02-01"
+      },
+      {
+        "activityText": "Took online guitar lessons to improve technique",
+        "createdAt": "2024-03-07"
+      },
+      {
+        "activityText": "Joined a local jam session to play with other musicians",
+        "createdAt": "2024-03-20"
+      },
+      {
+        "activityText": "Performed at an open mic night at a local coffee shop",
+        "createdAt": "2024-4-16"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Volunteer abroad and make a difference in underserved communities",
+    "username": "Evelyn",
+    "category": "Goodwill",
+    "completed": 0,
+    "frequency": "monthly",
+    "activities": [
+      {
+        "activityText": "Researched volunteer opportunities with reputable organizations",
+        "createdAt": "2024-01-01"
+      },
+      {
+        "activityText": "Applied for a volunteer program and completed the necessary paperwork",
+        "createdAt": "2024-02-14"
+      },
+      {
+        "activityText": "Fundraised to cover travel expenses and support the volunteer project",
+        "createdAt": "2024-03-23"
+      },
+      {
+        "activityText": "Packed essential items and prepared for cultural immersion",
+        "createdAt": "2024-03-27"
+      },
+      {
+        "activityText": "Engaged with local community members and contributed to meaningful projects",
+        "createdAt": "2024-03-31"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Start a podcast and share valuable content with listeners",
+    "username": "Keri",
+    "category": "Skill-building",
+    "completed": 0,
+    "frequency": "weekly",
+    "activities": [
+      {
+        "activityText": "Outlined podcast topics and episodes for the first season",
+        "createdAt": "2024-04-01"
+      },
+      {
+        "activityText": "Recorded and edited the first few episodes of the podcast",
+        "createdAt": "2024-04-10"
+      },
+      {
+        "activityText": "Created cover art and designed a logo for the podcast",
+        "createdAt": "2024-04-12"
+      },
+      {
+        "activityText": "Researched hosting platforms and published episodes online",
+        "createdAt": "2024-04-18"
+      },
+      {
+        "activityText": "Promoted the podcast on social media and other channels",
+        "createdAt": "2024-04-21"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Improve my time management skills and increase productivity",
+    "username": "Benita",
+    "category": "Productivity",
+    "completed": 0,
+    "frequency": "weekly",
+    "activities": [
+      {
+        "activityText": "Created a daily schedule and prioritized tasks",
+        "createdAt": "2024-03-01"
+      },
+      {
+        "activityText": "Used productivity tools such as to-do lists and calendar apps",
+        "createdAt": "2024-03-14"
+      },
+      {
+        "activityText": "Eliminated distractions by setting boundaries and establishing a dedicated workspace",
+        "createdAt": "2024-03-20"
+      },
+      {
+        "activityText": "Practiced the Pomodoro Technique to stay focused and work efficiently",
+        "createdAt": "2024-04-01"
+      },
+      {
+        "activityText": "Reflected on daily accomplishments and identified areas for improvement",
+        "createdAt": "2024-04-07"
+      }
+    ]
+  },
+  {
+    "goalTitle": "Organize a charity event to support a cause I'm passionate about",
+    "username": "Evelyn",
+    "category": "Goodwill",
+    "completed": 1,
+    "frequency": "weekly",
+    "activities": [
+      {
+        "activityText": "Identified a cause and researched organizations working in that area",
+        "createdAt": "2024-02-06"
+      },
+      {
+        "activityText": "Secured a venue and set a date for the charity event",
+        "createdAt": "2024-02-13"
+      },
+      {
+        "activityText": "Recruited volunteers to help with planning and execution",
+        "createdAt": "2024-02-20"
+      },
+      {
+        "activityText": "Promoted the event through social media, email, and word-of-mouth",
+        "createdAt": "2024-03-01"
+      },
+      {
+        "activityText": "Coordinated logistics such as catering, entertainment, and fundraising activities",
+        "createdAt": "2024-03-07"
+      },
+      {
+        "activityText": "Had a successful event and raised $27,000!",
+        "createdAt": "2024-03-15"
+      }
+    ]
+  }
+]
